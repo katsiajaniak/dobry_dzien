@@ -1,0 +1,10 @@
+Jest
+i
+on.
+Trzeci
+plik
+już
+jest
+zrobiony!
+Hura!
+Udało się!
