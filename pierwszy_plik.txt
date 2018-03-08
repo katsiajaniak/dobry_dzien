@@ -1,1 +1,6 @@
-To jest mój pierwszy, samodzielnie zrobiony plik w GitHub. 
+﻿To jest mój pierwszy, samodzielnie zrobiony plik w GitHub. 
+Hej
+Znowu
+Coś
+Nowego
+Piszemy
