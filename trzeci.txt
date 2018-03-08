@@ -1,6 +1,6 @@
 Jest
 i
-on.
+To ona, inna linijka.
 Trzeci
 plik
 już
